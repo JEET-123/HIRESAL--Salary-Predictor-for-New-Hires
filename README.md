@@ -1,1 +1,1 @@
-# HIRESAL-Salary-Predictor-for-New-Hiring Employees in Company
+# HIRESAL--Salary-Predictor-for-New-Hiring Employees in Company
